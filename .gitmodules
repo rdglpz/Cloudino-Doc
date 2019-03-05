@@ -1,0 +1,3 @@
+[submodule "Cloudino-Doc.wiki"]
+	path = Cloudino-Doc.wiki
+	url = https://github.com/Cloudino/Cloudino-Doc.wiki.git
